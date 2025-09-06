@@ -1,5 +1,6 @@
+[badge-spring]: https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white
+
 # skill
-[badge-spring] : https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white
 
 | **Backend**   | **ORM**       | **SQL** | **Cloud** | **Front**     |
 |---------------|---------------|---------|-----------|---------------|
