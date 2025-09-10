@@ -16,4 +16,4 @@
 ## 프로젝트
 | **이름**      | **설명**                      | **역할** | **비고** |
 |   ----        |   ----                        |   ----   |   ----   |
-| 여운(https://github.com/Yeoun-project/yeoun) | 사용자 주도 자기성찰 Q&A 서비스 | backend |          |
+| [여운](https://github.com/Yeoun-project/yeoun) | 사용자 주도 자기성찰 Q&A 서비스 | backend |          |
