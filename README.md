@@ -15,3 +15,4 @@
 | **이름**                                       | **설명**                      | **역할** | **비고** |
 |   ----                                         |   ----                        |   ----   |   ----   |
 | [여운](https://github.com/Yeoun-project/yeoun) | 사용자 주도 자기성찰 Q&A 서비스 | backend |          |
+| [with U](https://github.com/DMU-NextLevel)     | 펀딩 사이트                    | backend | 졸업 작품(진행 중) |
