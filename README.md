@@ -14,5 +14,6 @@
 ## 프로젝트
 | **이름**                                       | **설명**                      | **역할** | **비고** |
 |   ----                                         |   ----                        |   ----   |   ----   |
-| [여운](https://github.com/Yeoun-project/yeoun) | 사용자 주도 자기성찰 Q&A 서비스 | backend |          |
+| [HooAah]()                                     | 요트 관리 앱                   | backend | 서울시 일자리 프로젝트 |
 | [with U](https://github.com/DMU-NextLevel)     | 펀딩 사이트                    | backend | 졸업 작품 |
+| [여운](https://github.com/Yeoun-project/yeoun) | 사용자 주도 자기성찰 Q&A 서비스 | backend |          |
