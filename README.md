@@ -7,12 +7,12 @@
 
 | 프로젝트 | 설명 | 팀원 | 비고 |
 |---|---|---|---|
-| **여운** | 사용자 주도 자기성찰 Q&A 서비스 | | [여운](https://github.com/Yeoun-project/yeoun) |
-| **The First Commit** | 첫 해커톤 | | [The First Commit](https://github.com/kwonhee1/TheFirstCommit) |
-| **WithU** | 크라우드 펀딩 플랫폼 | Back 1 · Front 3 | [WithU](https://github.com/DMU-NextLevel) |
-| **HooYah** | 요트 통합 관리 앱 | Back 2 · Front 2 | [HooYah](https://github.com/HooAah-Yacht) |
-| **Yacht MSA** | HooYah 모노리스를 MSA로 재설계 | Back 1 | [Yacht MSA](https://github.com/kwonhee1/Yacht-MSA) |
 | **Arubi** | AI 여행일정 생성 앱 | Back 2 · Front 2 | [Arubi](https://github.com/kwonhee1/Arubi) |
+| **Yacht MSA** | HooYah 모노리스를 MSA로 재설계 | Back 1 | [Yacht MSA](https://github.com/kwonhee1/Yacht-MSA) |
+| **HooYah** | 요트 통합 관리 앱 | Back 3 · Front 1 | [HooYah](https://github.com/HooAah-Yacht) |
+| **WithU** | 크라우드 펀딩 플랫폼 | Back 1 · Front 3 | [WithU](https://github.com/DMU-NextLevel) |
+| **The First Commit** | 첫 해커톤 | Back 2 · Front 2 · 기획자 1 · 디자이너 1 | [The First Commit](https://github.com/kwonhee1/TheFirstCommit) |
+| **여운** | 사용자 주도 자기성찰 Q&A 서비스 | Back 2 · Front 2 · 기획자 1 · 디자이너 1 | [여운](https://github.com/Yeoun-project/yeoun) |
 
 ## Etc
 
