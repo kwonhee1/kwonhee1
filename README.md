@@ -5,7 +5,7 @@
 
 ## Projects
 
-| 프로젝트 | 설명 | 팀원 | 비고 |
+| 프로젝트 | 설명 | 팀원 | Github |
 |---|---|---|---|
 | **Arubi** | AI 여행일정 생성 앱 | Back 2 · Front 2 | [Arubi](https://github.com/kwonhee1/Arubi) |
 | **Yacht MSA** | HooYah 모노리스를 MSA로 재설계 | Back 1 | [Yacht MSA](https://github.com/kwonhee1/Yacht-MSA) |
