@@ -5,14 +5,14 @@
 
 ## Projects
 
-| 프로젝트 | 설명 | 역할 | 비고 |
+| 프로젝트 | 설명 | 팀원 | 비고 |
 |---|---|---|---|
-| **여운** | 사용자 주도 자기성찰 Q&A 서비스 | Backend | [GitHub](https://github.com/Yeoun-project/yeoun) |
-| **The First Commit** | 첫 해커톤 | Backend | [GitHub](https://github.com/kwonhee1/TheFirstCommit) |
-| **WithU** | 크라우드 펀딩 플랫폼 | Backend | 졸업작품 · [GitHub](https://github.com/DMU-NextLevel) |
-| **HooYah** | 요트 통합 관리 앱 | Backend | 일경험 프로젝트 · [GitHub](https://github.com/HooAah-Yacht) |
-| **Yacht MSA** | HooYah 모노리스를 MSA로 재설계 | Backend 1인 | [GitHub](https://github.com/kwonhee1/Yacht-MSA) |
-| **Arubi** | AI 여행일정 생성 앱 | Backend | [GitHub](https://github.com/kwonhee1/Arubi) |
+| **여운** | 사용자 주도 자기성찰 Q&A 서비스 | | [여운](https://github.com/Yeoun-project/yeoun) |
+| **The First Commit** | 첫 해커톤 | | [The First Commit](https://github.com/kwonhee1/TheFirstCommit) |
+| **WithU** | 크라우드 펀딩 플랫폼 | Back 1 · Front 3 | [WithU](https://github.com/DMU-NextLevel) |
+| **HooYah** | 요트 통합 관리 앱 | Back 2 · Front 2 | [HooYah](https://github.com/HooAah-Yacht) |
+| **Yacht MSA** | HooYah 모노리스를 MSA로 재설계 | Back 1 | [Yacht MSA](https://github.com/kwonhee1/Yacht-MSA) |
+| **Arubi** | AI 여행일정 생성 앱 | Back 2 · Front 2 | [Arubi](https://github.com/kwonhee1/Arubi) |
 
 ## Etc
 
