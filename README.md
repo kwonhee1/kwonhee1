@@ -16,10 +16,10 @@
 
 ## Etc
 
-| 이름 | 설명 | 비고 |
+| 이름 | 설명 | Git |
 |---|---|---|
 | **Custom Mockito** | Mockito 원리 분석 및 직접 구현 | [GitHub](https://github.com/kwonhee1/CustomMockito) |
-| **ARP** | | |
+| **ARP** | 내 서버를 털어보기 위해 시도한 프로젝트 (HTTP Socket 감청 성공, HTTPS SSL 해독 실패) | private |
 
 ## Tech Stack
 
