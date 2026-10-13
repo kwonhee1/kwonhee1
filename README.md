@@ -8,11 +8,11 @@
 | 프로젝트 | 설명 | 역할 | 비고 |
 |---|---|---|---|
 | **여운** | 사용자 주도 자기성찰 Q&A 서비스 | Backend | [GitHub](https://github.com/Yeoun-project/yeoun) |
-| **The First Commit** | | | 첫 해커톤 · [GitHub](https://github.com/kwonhee1/TheFirstCommit) |
+| **The First Commit** | 첫 해커톤 | Backend | [GitHub](https://github.com/kwonhee1/TheFirstCommit) |
 | **WithU** | 크라우드 펀딩 플랫폼 | Backend | 졸업작품 · [GitHub](https://github.com/DMU-NextLevel) |
 | **HooYah** | 요트 통합 관리 앱 | Backend | 서울시 일자리 프로젝트 |
 | **Yacht MSA** | HooYah 모노리스를 MSA로 재설계 | Backend 1인 | 고용노동부 일경험 · [GitHub](https://github.com/kwonhee1/Yacht-MSA) |
-| **Arubi** | AI 여행일정 생성 앱 | Backend | 4학년 졸업작품 · [Velog](https://velog.io/@lkh8033/ARUBI) |
+| **Arubi** | AI 여행일정 생성 앱 | Backend | [GitHub](https://github.com/kwonhee1/Arubi) |
 
 ## Etc
 
